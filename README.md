@@ -20,7 +20,8 @@
 >ROUTING COST: 180
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Echelon/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Echelon/main/Screenshot/2.png)
 
 ## Special thanks
 
